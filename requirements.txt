@@ -1,1 +1,11 @@
 # python packages to install, one per line
+langchain==0.1.1
+langchain-community==0.0.13
+langchainhub==0.1.14
+openai==1.13.3
+tiktoken==0.6.0
+pinecone-client==3.0.2
+typer==0.3.2
+colorama==0.4.4
+#transformers=="^4.36.2"
+#torch=="^4.36.2"
