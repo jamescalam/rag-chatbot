@@ -1,5 +1,5 @@
 # python packages to install, one per line
-langchain==0.1.1
+langchain==0.1.11
 langchain-community==0.0.13
 langchainhub==0.1.14
 openai==1.13.3
